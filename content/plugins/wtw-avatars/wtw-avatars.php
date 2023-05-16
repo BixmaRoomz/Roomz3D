@@ -1,0 +1,31 @@
+<?php
+#	pluginname = wtw-avatars
+#	title = roomz Avatars Plugin
+#	description = roomz Avatar Creator and Editor
+#	author = Aaron Dishno Ed.D.
+# 	version = 1.0.3
+#	releasedate = 8/31/2022
+
+/* change the information above for your plugin */
+/* then search and replace the following with your DEVID and PLUGIN Name: */
+/* 		WTW_AVATARS */
+/*		wtwavatars */
+/*		wtw-avatars */
+
+/* for more information about 3D plugins and the latest updates, see: */
+/* https://www.roomz.com/wiki/3d-plugin-template/ */
+/* roomz uses BabylonJS.com game engine */
+/* https://doc.babylonjs.com/babylon101/ */
+
+global $wtwplugins;
+
+if (!defined('wtw_serverinstanceid')) exit; // Exit if accessed directly
+
+if (!defined('WTW_AVATARS_FILE')) {
+	define('WTW_AVATARS_FILE', __FILE__ );
+}
+
+if (!class_exists('wtwavatars')) {
+	require_once($wtwplugins->contentpath."/plugins/wtw-avatars/functions/class_plugin.php");
+}
+?>

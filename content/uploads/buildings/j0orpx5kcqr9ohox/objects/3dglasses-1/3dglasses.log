@@ -1,0 +1,54 @@
+Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  D:\Data\HTTP3DInc\Blender\3dglasses\
+	Python World class constructor completed
+	processing begun of mesh:  3DGlasses
+		processing begun of material:  FrameMaterial
+		processing begun of material:  RedMaterial
+		processing begun of material:  CyanMaterial
+		processing begun of material:  FoldMaterial
+		processing begun of multimaterial:  dglasses_3.Multimaterial#0
+		num positions      :  719
+		num normals        :  719
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1050
+	processing begun of mesh:  WTWRight
+		processing begun of material:  FontMaterial
+		num positions      :  5566
+		num normals        :  5566
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  16548
+	processing begun of mesh:  WTWLeft
+		processing begun of material:  FontMaterial
+		registered as also a user of material:  FontMaterial
+		num positions      :  5566
+		num normals        :  5566
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  16548
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of light (DIRECTIONAL):  Lamp
+========= Writing of JSON file started =========
+	writing mesh:  3DGlasses
+	writing mesh:  WTWRight
+	writing mesh:  WTWLeft
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 1.3208 secs

@@ -1,0 +1,75 @@
+Exporter version: 2.80.1, Blender version: 2.90.0
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  D:\Data\HTTP3DInc\Blender\islands\tropicalisland\trees\
+	Python World class constructor completed
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  OC13_3
+		processing begun of material:  BARK4
+		processing begun of material:  BARK8
+		processing begun of material:  BARK5
+		processing begun of material:  BARK2
+		processing begun of material:  LEAF1
+		processing begun of material:  BARK7
+		processing begun of material:  LEAF3
+		processing begun of material:  FLOWER1
+		processing begun of material:  FRUIT1
+			processing texture OC13brk4
+				texture type:  bumpTexture, mapped using: "UVChannel_1"
+			processing texture OC13brk4
+				texture type:  diffuseTexture, mapped using: "UVChannel_1"
+			processing texture OC13brk8
+				texture type:  bumpTexture, mapped using: "UVChannel_1"
+			processing texture OC13brk8
+				texture type:  diffuseTexture, mapped using: "UVChannel_1"
+			processing texture OC13brk5
+				texture type:  bumpTexture, mapped using: "UVChannel_1"
+			processing texture OC13brk5
+				texture type:  diffuseTexture, mapped using: "UVChannel_1"
+			processing texture OC13brk2
+				texture type:  bumpTexture, mapped using: "UVChannel_1"
+			processing texture OC13brk2
+				texture type:  diffuseTexture, mapped using: "UVChannel_1"
+			processing texture OC13lef1
+				texture type:  bumpTexture, mapped using: "UVChannel_1"
+			processing texture OC13lef1
+				texture type:  diffuseTexture, mapped using: "UVChannel_1"
+			processing texture OC13brk7
+				texture type:  bumpTexture, mapped using: "UVChannel_1"
+			processing texture OC13brk7
+				texture type:  diffuseTexture, mapped using: "UVChannel_1"
+			processing texture OC13lef3
+				texture type:  bumpTexture, mapped using: "UVChannel_1"
+			processing texture OC13lef3
+				texture type:  diffuseTexture, mapped using: "UVChannel_1"
+			processing texture OC13flw1
+				texture type:  bumpTexture, mapped using: "UVChannel_1"
+			processing texture OC13flw1
+				texture type:  diffuseTexture, mapped using: "UVChannel_1"
+			processing texture OC13frt1
+				texture type:  bumpTexture, mapped using: "UVChannel_1"
+			processing texture OC13frt1
+				texture type:  diffuseTexture, mapped using: "UVChannel_1"
+		processing begun of multimaterial:  palmtree3.Multimaterial#0
+		Custom split normals with tangents being used
+		num positions      :  53076
+		num normals        :  53076
+		num tangents       :  212304
+		num uvs            :  106152
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  56279
+	processing begun of light (POINT):  Light
+========= Writing of JSON file started =========
+	writing mesh:  OC13_3
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 10.2666 secs

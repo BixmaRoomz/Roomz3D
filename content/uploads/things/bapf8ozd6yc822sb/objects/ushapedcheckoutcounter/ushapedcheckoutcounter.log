@@ -1,0 +1,106 @@
+Exporter version: 2.93.5, Blender version: 3.2.1
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Data\HTTP3DInc\Blender\checkoutcounter\
+	Python World class constructor completed
+	processing begun of mesh:  counter
+		processing begun of material:  Material
+		processing begun of material:  marble
+		processing begun of material:  gold
+			processing texture Wood049_1K_Color
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture Wood049_1K_Roughness
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture Wood049_1K_NormalDX
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture Marble011_1K_Color
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture Marble011_1K_Roughness
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture Marble011_1K_NormalGL
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture Metal034_1K_Color
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture Metal034_1K_Metalness
+				texture type:  specularTexture, mapped using: "UVMap"
+			processing texture Metal034_1K_Roughness
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture Metal034_1K_NormalDX
+				texture type:  bumpTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  ushapedcheckoutcounter.Multimaterial#0
+		num positions      :  713
+		num normals        :  713
+		num tangents       :  0
+		num uvs            :  1426
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  292
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  rightdoor
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		num positions      :  30
+		num normals        :  30
+		num tangents       :  0
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  leftdoor
+		processing begun of material:  Material
+		registered as also a user of material:  Material
+		num positions      :  30
+		num normals        :  30
+		num tangents       :  0
+		num uvs            :  60
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  12
+	processing begun of mesh:  corners
+		processing begun of material:  Material
+		processing begun of material:  marble
+		processing begun of material:  gold
+		registered as also a user of material:  Material
+		registered as also a user of material:  marble
+		registered as also a user of material:  gold
+		processing begun of multimaterial:  ushapedcheckoutcounter.Multimaterial#1
+		num positions      :  149
+		num normals        :  149
+		num tangents       :  0
+		num uvs            :  298
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  124
+	processing begun of mesh:  goldtrim
+		processing begun of material:  Material
+		processing begun of material:  marble
+		processing begun of material:  gold
+		registered as also a user of material:  Material
+		registered as also a user of material:  marble
+		registered as also a user of material:  gold
+		processing begun of multimaterial:  ushapedcheckoutcounter.Multimaterial#2
+		num positions      :  32
+		num normals        :  32
+		num tangents       :  0
+		num uvs            :  64
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  24
+	processing begun of light (POINT):  Light
+========= Writing of JSON file started =========
+	writing mesh:  counter
+	writing mesh:  rightdoor
+	writing mesh:  leftdoor
+	writing mesh:  corners
+	writing mesh:  goldtrim
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.0776 secs

@@ -1,0 +1,65 @@
+Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  D:\Data\TFS\HTTP3D\secureinternal\HTTP3DInc\Blender\games\arcademachine\
+	Python World class constructor completed
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  Arcade_machine
+		processing begun of material:  AM_Black_main
+		processing begun of material:  AM_Metal
+		processing begun of material:  AM_White_Plastic
+		processing begun of material:  AM_Black_2
+		processing begun of material:  AM_Black_Cell
+		processing begun of material:  AM_Logo
+		processing begun of material:  AM_Screen
+			processing texture amscreen
+				WARNING: Exception during copy:
+					'D:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\games\\arcademachine\\amscreen.jpg' and 'D:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\games\\arcademachine\\amscreen.jpg' are the same file
+				texture type:  bumpTexture, mapped using: "UVChannel_1"
+		processing begun of multimaterial:  arcademachine.Multimaterial#0
+		Custom split normals with tangents being used
+		num positions      :  15644
+		num normals        :  15644
+		num tangents       :  62576
+		num uvs            :  31288
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  51936
+	processing begun of mesh:  screen
+		processing begun of material:  AM_Screen
+		registered as also a user of material:  AM_Screen
+		Custom split normals with tangents being used
+		num positions      :  8
+		num normals        :  8
+		num tangents       :  32
+		num uvs            :  16
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  18
+	processing begun of mesh:  logo
+		processing begun of material:  AM_Logo
+		registered as also a user of material:  AM_Logo
+		Custom split normals with tangents being used
+		num positions      :  4
+		num normals        :  4
+		num tangents       :  16
+		num uvs            :  8
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6
+	processing begun of light (DIRECTIONAL):  Light
+========= Writing of JSON file started =========
+	writing mesh:  Arcade_machine
+	writing mesh:  screen
+	writing mesh:  logo
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 3.2679 secs

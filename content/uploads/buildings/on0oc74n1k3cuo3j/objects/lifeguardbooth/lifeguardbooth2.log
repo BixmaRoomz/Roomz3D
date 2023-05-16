@@ -1,0 +1,39 @@
+Exporter version: 6.2.2, Blender version: 2.80 (sub 75)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		texture directory   :  C:\Users\adishno\Desktop\roomz\roomzbeach\buildings\lifeguardbooth2\
+	Python World class constructor completed
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  LifeguardBooth02
+		processing begun of material:  LifeguardBooth_Body
+		processing begun of material:  LifeguardBooth_Alpha
+			processing texture uploads_files_253169_LifeguardBooth02
+				WARNING: Exception during copy:
+					'C:\\Users\\adishno\\Desktop\\roomz\\roomzbeach\\buildings\\lifeguardbooth2\\uploads_files_253169_LifeguardBooth02.jpg' and 'C:\\Users\\adishno\\Desktop\\roomz\\roomzbeach\\buildings\\lifeguardbooth2\\uploads_files_253169_LifeguardBooth02.jpg' are the same file
+				texture type:  diffuseTexture, mapped using: "UVChannel_1"
+			processing texture uploads_files_253169_LifeguardBooth02
+				WARNING: Exception during copy:
+					'C:\\Users\\adishno\\Desktop\\roomz\\roomzbeach\\buildings\\lifeguardbooth2\\uploads_files_253169_LifeguardBooth02.tga' and 'C:\\Users\\adishno\\Desktop\\roomz\\roomzbeach\\buildings\\lifeguardbooth2\\uploads_files_253169_LifeguardBooth02.tga' are the same file
+				texture type:  diffuseTexture, mapped using: "UVChannel_1"
+		processing begun of multimaterial:  lifeguardbooth2.Multimaterial#0
+		Custom split normals with tangents being used
+		num positions      :  6234
+		num normals        :  6234
+		num tangents       :  24936
+		num uvs            :  12468
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  13308
+	processing begun of light (DIRECTIONAL):  Light
+========= Writing of JSON file started =========
+	writing mesh:  LifeguardBooth02
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 1.1656 secs

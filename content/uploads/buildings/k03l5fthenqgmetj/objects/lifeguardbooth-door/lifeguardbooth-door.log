@@ -1,0 +1,41 @@
+Exporter version: 2.80.1, Blender version: 2.90.0
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  D:\Data\HTTP3DInc\Blender\lifeguardbooth2\
+	Python World class constructor completed
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  BoothDoor
+		processing begun of material:  LifeguardBooth_Body
+		processing begun of material:  LifeguardBooth_Alpha
+		processing begun of material:  glass
+			processing texture lifeguardbooth
+				texture type:  diffuseTexture, mapped using: "UVChannel_1"
+			processing texture lifeguardbooth_ao
+				texture type:  specularTexture, mapped using: "UVChannel_1"
+			processing texture lifeguardbooth
+				texture type:  diffuseTexture, mapped using: "UVChannel_1"
+			processing texture lifeguardbooth_ao
+				texture type:  specularTexture, mapped using: "UVChannel_1"
+		processing begun of multimaterial:  lifeguardbooth_door.Multimaterial#0
+		Custom split normals with tangents being used
+		num positions      :  182
+		num normals        :  182
+		num tangents       :  728
+		num uvs            :  364
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  110
+	processing begun of light (DIRECTIONAL):  Light
+========= Writing of JSON file started =========
+	writing mesh:  BoothDoor
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.07 secs

@@ -1,0 +1,81 @@
+Exporter version: 2.80.1, Blender version: 2.90.0
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  D:\Data\HTTP3DInc\Blender\pier\pier\
+	Python World class constructor completed
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  molo
+		processing begun of material:  molo
+		processing begun of material:  planks
+			processing texture molo_Normal
+				texture type:  bumpTexture, mapped using: "UVChannel_1"
+			processing texture molo_BaseColor_diffuse
+				texture type:  diffuseTexture, mapped using: "UVChannel_1"
+			processing texture molo_Specular
+				texture type:  specularTexture, mapped using: "UVChannel_1"
+			processing texture molo_Glossiness
+				texture type:  value not meaningful 2, mapped using: "UVChannel_1"
+			processing texture wood_planks_worn
+				texture type:  bumpTexture, mapped using: "UVChannel_1"
+			processing texture wood_planks_diff
+				texture type:  diffuseTexture, mapped using: "UVChannel_1"
+			processing texture wood_planks_reflect
+				texture type:  specularTexture, mapped using: "UVChannel_1"
+			processing texture wood_planks_gloss
+				texture type:  value not meaningful 2, mapped using: "UVChannel_1"
+		processing begun of multimaterial:  pier_short.Multimaterial#0
+		Custom split normals with tangents being used
+		num positions      :  31341
+		num normals        :  31341
+		num tangents       :  125364
+		num uvs            :  62682
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  21280
+		WARNING: # of 0 area faces found:  36
+	processing begun of mesh:  planks
+		processing begun of material:  planks
+		registered as also a user of material:  planks
+		Custom split normals with tangents being used
+		num positions      :  5435
+		num normals        :  5435
+		num tangents       :  21740
+		num uvs            :  10870
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2198
+	processing begun of mesh:  wood
+		processing begun of material:  Wood_planks
+			processing texture planks_worn
+				texture type:  bumpTexture, mapped using: "UVChannel_1"
+			processing texture planks_diff
+				texture type:  diffuseTexture, mapped using: "UVChannel_1"
+			processing texture planks_refl
+				texture type:  specularTexture, mapped using: "UVChannel_1"
+			processing texture planks_gloss
+				texture type:  value not meaningful 2, mapped using: "UVChannel_1"
+		Custom split normals with tangents being used
+		num positions      :  6463
+		num normals        :  6463
+		num tangents       :  25852
+		num uvs            :  12926
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2310
+		WARNING: # of 0 area faces found:  26
+	processing begun of light (DIRECTIONAL):  Light
+========= Writing of JSON file started =========
+	writing mesh:  molo
+	writing mesh:  planks
+	writing mesh:  wood
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 5.4497 secs

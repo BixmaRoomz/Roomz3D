@@ -1,0 +1,132 @@
+Exporter version: 2.93.5, Blender version: 3.2.1
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Data\HTTP3DInc\Blender\building\dualstore\
+	Python World class constructor completed
+	processing begun of mesh:  Outer Building
+		processing begun of material:  Material
+		processing begun of material:  transparent
+		processing begun of material:  blue gravel
+		processing begun of material:  worn metal
+		processing begun of material:  window rock
+		processing begun of material:  red roof
+		processing begun of material:  red wood
+		processing begun of material:  roof edge
+		processing begun of material:  roof facia
+		processing begun of material:  old brick
+		processing begun of material:  painted plaster
+		processing begun of material:  black metal
+		processing begun of material:  yellow wood
+		processing begun of material:  window
+		processing begun of material:  open sign
+			processing texture bluegravel_color
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture bluegravel_roughness
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture bluegravel_normal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture wornmetal_color
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture wornmetal_metalness
+				texture type:  metallicTexture, mapped using: "UVMap"
+			processing texture wornmetal_roughness
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture wornmetal_normal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture windowrock_color
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture redroofingtiles_color
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture redroofingtiles_roughness
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture redroofingtiles_normal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture redwoodsiding_color
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture redwoodsiding_roughness
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture redwoodsiding_normal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture whiteplanks_color
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture whiteplanks_roughness
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture whiteplanks_normal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture oldbrick_color
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture oldbrick_roughness
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture oldbrick_normal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture paintedplaster_color
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture paintedplaster_roughness
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture paintedplaster_normal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture blackmetal_color
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture blackmetal_metalness
+				texture type:  metallicTexture, mapped using: "UVMap"
+			processing texture blackmetal_roughness
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture blackmetal_normal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture yellowwood_color
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture yellowwood_roughness
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture yellowwood_normal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture opensign
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  dualstoreopen.Multimaterial#0
+		num positions      :  13935
+		num normals        :  13935
+		num tangents       :  0
+		num uvs            :  27870
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  5283
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  Awnings
+		processing begun of material:  Material
+		processing begun of material:  red awning
+		processing begun of material:  yellow awning
+		registered as also a user of material:  Material
+			processing texture redfabric_color
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture redfabric_roughness
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture redfabric_normal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture yellowfabric_color
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture yellowfabric_roughness
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture yellowfabric_normal
+				texture type:  bumpTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  dualstoreopen.Multimaterial#1
+		num positions      :  1616
+		num normals        :  1616
+		num tangents       :  0
+		num uvs            :  3232
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2056
+	processing begun of light (DIRECTIONAL):  Light
+========= Writing of JSON file started =========
+	writing mesh:  Outer Building
+	writing mesh:  Awnings
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 1.2301 secs

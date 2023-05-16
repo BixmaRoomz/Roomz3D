@@ -1,0 +1,213 @@
+Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  D:\Data\HTTP3DInc\Blender\games\AsterFire\
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of camera (UniversalCamera):  Camera.001
+	processing begun of mesh:  AirVentF
+		processing begun of material:  Vent
+		Custom split normals with tangents being used
+		num positions      :  180
+		num normals        :  180
+		num tangents       :  720
+		num uvs            :  360
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  198
+	processing begun of mesh:  CoinDoorLock
+		processing begun of material:  KeyHole
+		num positions      :  175
+		num normals        :  175
+		num tangents       :  700
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  402
+	processing begun of mesh:  StartButton
+		processing begun of material:  RedButton
+		num positions      :  384
+		num normals        :  384
+		num tangents       :  1536
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2202
+	processing begun of mesh:  DownButton
+		processing begun of material:  Buttons
+		num positions      :  384
+		num normals        :  384
+		num tangents       :  1536
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2202
+	processing begun of mesh:  LeftButton
+		processing begun of material:  Buttons
+		registered as also a user of material:  Buttons
+		num positions      :  384
+		num normals        :  384
+		num tangents       :  1536
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2202
+	processing begun of mesh:  UpButton
+		processing begun of material:  Buttons
+		registered as also a user of material:  Buttons
+		num positions      :  384
+		num normals        :  384
+		num tangents       :  1536
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2202
+	processing begun of mesh:  GunsButton
+		processing begun of material:  YellowButton
+		num positions      :  384
+		num normals        :  384
+		num tangents       :  1536
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2202
+	processing begun of mesh:  CannonButton
+		processing begun of material:  BlueButton
+		num positions      :  384
+		num normals        :  384
+		num tangents       :  1536
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2202
+	processing begun of mesh:  TrackSphere
+		processing begun of material:  TrackBall
+		processing begun of material:  Ring(TrackBall)
+		processing begun of multimaterial:  asterfire.Multimaterial#0
+		num positions      :  589
+		num normals        :  589
+		num tangents       :  2356
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1836
+	processing begun of mesh:  RightButton
+		processing begun of material:  Buttons
+		registered as also a user of material:  Buttons
+		num positions      :  384
+		num normals        :  384
+		num tangents       :  1536
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2202
+	processing begun of mesh:  Slots
+		processing begun of material:  CoinSlots
+			processing texture arcadecoinslots
+				WARNING: Exception during copy:
+					'D:\\Data\\HTTP3DInc\\Blender\\games\\AsterFire\\arcadecoinslots.png' and 'D:\\Data\\HTTP3DInc\\Blender\\games\\AsterFire\\arcadecoinslots.png' are the same file
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		Custom split normals with tangents being used
+		num positions      :  1544
+		num normals        :  1544
+		num tangents       :  6176
+		num uvs            :  3088
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1812
+		WARNING: # of 0 area faces found:  40
+	processing begun of mesh:  Screws
+		processing begun of material:  Screws
+		num positions      :  384
+		num normals        :  384
+		num tangents       :  1536
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1656
+	processing begun of mesh:  CoinDoorFace
+		processing begun of material:  CoinDoor
+			processing texture arcadedoors
+				WARNING: Exception during copy:
+					'D:\\Data\\HTTP3DInc\\Blender\\games\\AsterFire\\arcadedoors.png' and 'D:\\Data\\HTTP3DInc\\Blender\\games\\AsterFire\\arcadedoors.png' are the same file
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		Custom split normals with tangents being used
+		num positions      :  8348
+		num normals        :  8348
+		num tangents       :  33392
+		num uvs            :  16696
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  10206
+	processing begun of mesh:  Screen
+		processing begun of material:  AsterFireTitlescreen
+			processing texture asterfiretitlescreen
+				WARNING: Exception during copy:
+					'D:\\Data\\HTTP3DInc\\Blender\\games\\AsterFire\\asterfiretitlescreen.png' and 'D:\\Data\\HTTP3DInc\\Blender\\games\\AsterFire\\asterfiretitlescreen.png' are the same file
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		Custom split normals with tangents being used
+		num positions      :  138
+		num normals        :  138
+		num tangents       :  552
+		num uvs            :  276
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  714
+	processing begun of mesh:  CabinetCenter
+		processing begun of material:  Front
+			processing texture asterfirefrontart
+				WARNING: Exception during copy:
+					'D:\\Data\\HTTP3DInc\\Blender\\games\\AsterFire\\asterfirefrontart.png' and 'D:\\Data\\HTTP3DInc\\Blender\\games\\AsterFire\\asterfirefrontart.png' are the same file
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		Custom split normals with tangents being used
+		num positions      :  216
+		num normals        :  216
+		num tangents       :  864
+		num uvs            :  432
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  534
+		WARNING: # of 0 area faces found:  4
+	processing begun of mesh:  CabinetSides
+		processing begun of material:  Sides
+			processing texture asterfiresideart
+				WARNING: Exception during copy:
+					'D:\\Data\\HTTP3DInc\\Blender\\games\\AsterFire\\asterfiresideart.png' and 'D:\\Data\\HTTP3DInc\\Blender\\games\\AsterFire\\asterfiresideart.png' are the same file
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		Custom split normals with tangents being used
+		num positions      :  686
+		num normals        :  686
+		num tangents       :  2744
+		num uvs            :  1372
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1764
+	processing begun of light (DIRECTIONAL):  Light
+========= Writing of JSON file started =========
+	writing mesh:  AirVentF
+	writing mesh:  CoinDoorLock
+	writing mesh:  StartButton
+	writing mesh:  DownButton
+	writing mesh:  LeftButton
+	writing mesh:  UpButton
+	writing mesh:  GunsButton
+	writing mesh:  CannonButton
+	writing mesh:  TrackSphere
+	writing mesh:  RightButton
+	writing mesh:  Slots
+	writing mesh:  Screws
+	writing mesh:  CoinDoorFace
+	writing mesh:  Screen
+	writing mesh:  CabinetCenter
+	writing mesh:  CabinetSides
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 1.6938 secs

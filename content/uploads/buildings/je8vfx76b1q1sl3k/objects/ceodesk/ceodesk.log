@@ -1,0 +1,46 @@
+Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  D:\Data\HTTP3DInc\Blender\building\mattkalla\ceodesk\
+	Python World class constructor completed
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  ceodesk
+		processing begun of material:  lambert1
+			processing texture lambert1_Base_Color
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\mattkalla\\ceodesk\\lambert1_Base_Color.png' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\mattkalla\\ceodesk\\lambert1_Base_Color.png' are the same file
+				texture type:  diffuseTexture, mapped using: "map1"
+			processing texture lambert1_Metallic
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\mattkalla\\ceodesk\\lambert1_Metallic.png' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\mattkalla\\ceodesk\\lambert1_Metallic.png' are the same file
+				texture type:  metallicTexture, mapped using: "map1"
+			processing texture lambert1_Roughness
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\mattkalla\\ceodesk\\lambert1_Roughness.png' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\mattkalla\\ceodesk\\lambert1_Roughness.png' are the same file
+				texture type:  value not meaningful 2, mapped using: "map1"
+			processing texture lambert1_Normal_OpenGL
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\mattkalla\\ceodesk\\lambert1_Normal_OpenGL.png' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\mattkalla\\ceodesk\\lambert1_Normal_OpenGL.png' are the same file
+				texture type:  bumpTexture, mapped using: "map1"
+		Custom split normals with tangents being used
+		num positions      :  43112
+		num normals        :  43112
+		num tangents       :  172448
+		num uvs            :  86224
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  46752
+	processing begun of light (POINT):  Light
+========= Writing of JSON file started =========
+	writing mesh:  ceodesk
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 5.1017 secs

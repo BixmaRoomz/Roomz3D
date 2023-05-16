@@ -1,0 +1,142 @@
+Exporter version: 6.3.0, Blender version: 2.80 (sub 75)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Users\adishno\Desktop\roomz\roomzbeach\pooltable\
+			WARNING: unsupported node type(ShaderNodeRGB) will trigger baking
+	Python World class constructor completed
+	WARNING: No active camera has been assigned, or is not in a currently selected Blender layer
+	processing begun of node:  BilliardTable
+	processing begun of mesh:  Table
+		processing begun of material:  Table
+			WARNING: unsupported node type(ShaderNodeLayerWeight) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+		processing begun of material:  crome
+		processing begun of material:  painted metal
+			WARNING: unsupported node type(ShaderNodeLayerWeight) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeLayerWeight) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeLayerWeight) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+		processing begun of material:  Material
+			WARNING: unsupported node type(ShaderNodeLayerWeight) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+		processing begun of material:  Velvet
+			WARNING: unsupported node type(ShaderNodeBsdfVelvet) will trigger baking
+		processing begun of material:  Leather
+			WARNING: unsupported node type(ShaderNodeLayerWeight) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeLayerWeight) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeLayerWeight) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMath) will trigger baking
+			WARNING: Roughness channel baking required, but not possible, ignored
+			Baking texture, type: DIFFUSE, mapped using: BakingUV
+			processing texture Table_baked_DIFFUSE
+				texture type:  diffuseTexture, mapped using: "BakingUV"
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture Table_baked_GLOSSY
+				texture type:  specularTexture, mapped using: "BakingUV"
+			bake time:  1 min, 13.6729 secs
+		num positions      :  160334
+		num normals        :  160334
+		num tangents       :  0
+		num uvs            :  320668
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  698736
+		WARNING: # of 0 area faces found:  16
+	processing begun of mesh:  Sphere
+		processing begun of material:  cue ball
+			WARNING: unsupported node type(ShaderNodeLayerWeight) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeLayerWeight) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture cue_ball_GLOSSY
+				texture type:  specularTexture, mapped using: "BakingUV"
+			bake time:  0 min, 37.0164 secs
+		num positions      :  9030
+		num normals        :  9030
+		num tangents       :  0
+		num uvs            :  18060
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  47616
+	processing begun of mesh:  Cue01
+		processing begun of material:  Cue
+			WARNING: unsupported node type(ShaderNodeLayerWeight) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			processing texture Default_Material_Black
+				WARNING: Exception during copy:
+					[Errno 2] No such file or directory: 'C:\\Users\\adishno\\Desktop\\roomz\\roomzbeach\\pooltable\\..\\..\\Projects\\portfolio\\cue stick1-files\\Default Material_Black.png'
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			Baking texture, type: GLOSSY, mapped using: UVMap
+			processing texture Cue_GLOSSY
+				texture type:  specularTexture, mapped using: "UVMap"
+			bake time:  0 min, 8.3067 secs
+		num positions      :  1997
+		num normals        :  1997
+		num tangents       :  0
+		num uvs            :  3994
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  9984
+	processing begun of mesh:  CueTip
+		processing begun of material:  Cuetip
+		num positions      :  226
+		num normals        :  226
+		num tangents       :  0
+		num uvs            :  0
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  1344
+	processing begun of mesh:  CueTipCover
+		processing begun of material:  Material.002
+			WARNING: unsupported node type(ShaderNodeLayerWeight) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeLayerWeight) will trigger baking
+			WARNING: unsupported node type(ShaderNodeValToRGB) will trigger baking
+			WARNING: unsupported node type(ShaderNodeMixRGB) will trigger baking
+			Baking texture, type: GLOSSY, mapped using: BakingUV
+			processing texture Material_002_GLOSSY
+				texture type:  specularTexture, mapped using: "BakingUV"
+			bake time:  0 min, 10.7245 secs
+		num positions      :  1754
+		num normals        :  1754
+		num tangents       :  0
+		num uvs            :  3508
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  5184
+========= Writing of JSON file started =========
+	writing mesh:  Table
+	writing mesh:  Sphere
+	writing mesh:  Cue01
+	writing mesh:  CueTip
+	writing mesh:  CueTipCover
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  2 min, 43.1242 secs

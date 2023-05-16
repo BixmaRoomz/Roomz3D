@@ -1,0 +1,108 @@
+Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  D:\Data\HTTP3DInc\Blender\building\dualstore\inside\
+	Python World class constructor completed
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  inside bottom left
+		processing begun of material:  black metal
+		processing begun of material:  transparent
+		processing begun of material:  window
+		processing begun of material:  yellow tiles
+		processing begun of material:  ceiling tiles
+		processing begun of material:  white paint
+		processing begun of material:  runner top
+		processing begun of material:  picture frames
+		processing begun of material:  picture matting
+		processing begun of material:  poster1
+		processing begun of material:  poster2
+			processing texture blackmetal_color
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture blackmetal_metalness
+				texture type:  metallicTexture, mapped using: "UVMap"
+			processing texture blackmetal_roughness
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture blackmetal_normal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture yellowtiles_color
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\dualstore\\inside\\yellowtiles_color.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\dualstore\\inside\\yellowtiles_color.jpg' are the same file
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture yellowtiles_roughness
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\dualstore\\inside\\yellowtiles_roughness.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\dualstore\\inside\\yellowtiles_roughness.jpg' are the same file
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture yellowtiles_normal
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\dualstore\\inside\\yellowtiles_normal.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\dualstore\\inside\\yellowtiles_normal.jpg' are the same file
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture ceilingtiles_color
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\dualstore\\inside\\ceilingtiles_color.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\dualstore\\inside\\ceilingtiles_color.jpg' are the same file
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture ceilingtiles_roughness
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\dualstore\\inside\\ceilingtiles_roughness.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\dualstore\\inside\\ceilingtiles_roughness.jpg' are the same file
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture ceilingtiles_normal
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\dualstore\\inside\\ceilingtiles_normal.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\dualstore\\inside\\ceilingtiles_normal.jpg' are the same file
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture whitepaint_color
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\dualstore\\inside\\whitepaint_color.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\dualstore\\inside\\whitepaint_color.jpg' are the same file
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture whitepaint_roughness
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\dualstore\\inside\\whitepaint_roughness.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\dualstore\\inside\\whitepaint_roughness.jpg' are the same file
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture whitepaint_normal
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\dualstore\\inside\\whitepaint_normal.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\dualstore\\inside\\whitepaint_normal.jpg' are the same file
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture redwoodsiding_color
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\dualstore\\inside\\redwoodsiding_color.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\dualstore\\inside\\redwoodsiding_color.jpg' are the same file
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture redwoodsiding_roughness
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\dualstore\\inside\\redwoodsiding_roughness.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\dualstore\\inside\\redwoodsiding_roughness.jpg' are the same file
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture redwoodsiding_normal
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\dualstore\\inside\\redwoodsiding_normal.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\dualstore\\inside\\redwoodsiding_normal.jpg' are the same file
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture yellowtiles_displacement
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\dualstore\\inside\\yellowtiles_displacement.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\dualstore\\inside\\yellowtiles_displacement.jpg' are the same file
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture poster1
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\dualstore\\inside\\poster1.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\dualstore\\inside\\poster1.jpg' are the same file
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture poster2
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\dualstore\\inside\\poster2.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\dualstore\\inside\\poster2.jpg' are the same file
+				texture type:  diffuseTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  dualstore_left.Multimaterial#0
+		num positions      :  356
+		num normals        :  356
+		num tangents       :  0
+		num uvs            :  712
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  450
+	processing begun of light (POINT):  Light
+========= Writing of JSON file started =========
+	writing mesh:  inside bottom left
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.1516 secs

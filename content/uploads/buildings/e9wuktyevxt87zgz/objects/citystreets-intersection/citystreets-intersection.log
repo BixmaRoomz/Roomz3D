@@ -1,0 +1,86 @@
+Exporter version: 6.4.4, Blender version: 2.90.0
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  D:\Data\HTTP3DInc\Blender\communities\
+	Python World class constructor completed
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  intersection
+		processing begun of material:  Material
+		processing begun of material:  roads
+		processing begun of material:  curbs
+		processing begun of material:  gutters
+		processing begun of material:  sidewalk
+		processing begun of material:  Foundation
+		processing begun of material:  blades
+		processing begun of material:  grass
+		processing begun of material:  roads.crosswalk
+			processing texture road004_color
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture road004_roughness
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture road004_normal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture concrete024_color
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture concrete024_roughness
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture concrete024_normal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture concrete017_color
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture concrete017_roughness
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture concrete017_normal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture concrete010_2k_color
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture concrete010_2k_roughness
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture concrete010_2k_normal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture concrete024_color
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture concrete024_roughness
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture concrete024_normal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture foliage001_color
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture foliage001_roughness
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture foliage001_normal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture ground001_color
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture ground001_roughness
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture ground001_normal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture roadcrosswalk_color
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture road004_roughness
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture road004_normal
+				texture type:  bumpTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  citystreets_intersection.Multimaterial#0
+		num positions      :  6277
+		num normals        :  6277
+		num tangents       :  0
+		num uvs            :  12554
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  2964
+	processing begun of light (DIRECTIONAL):  Light
+========= Writing of JSON file started =========
+	writing mesh:  intersection
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.6716 secs

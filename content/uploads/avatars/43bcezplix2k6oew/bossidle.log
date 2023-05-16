@@ -1,0 +1,316 @@
+Exporter version: 2.80.1, Blender version: 2.90.0
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  D:\Data\HTTP3DInc\Blender\avatars\boss\
+	Python World class constructor completed
+	processing begun of skeleton:  Armature, id:  0
+		processing begun of bone:  boss:Hips, index:  0
+		processing begun of bone:  boss:Spine, index:  1
+		processing begun of bone:  boss:Spine1, index:  2
+		processing begun of bone:  boss:Spine2, index:  3
+		processing begun of bone:  boss:Neck, index:  4
+		processing begun of bone:  boss:Neck1, index:  5
+		processing begun of bone:  boss:Head, index:  6
+		processing begun of bone:  boss:LeftShoulder, index:  7
+		processing begun of bone:  boss:LeftArm, index:  8
+		processing begun of bone:  boss:LeftForeArm, index:  9
+		processing begun of bone:  boss:LeftHand, index:  10
+		processing begun of bone:  boss:LeftHandThumb1, index:  11
+		processing begun of bone:  boss:LeftHandThumb2, index:  12
+		processing begun of bone:  boss:LeftHandThumb3, index:  13
+		processing begun of bone:  boss:LeftHandThumb4, index:  14
+		processing begun of bone:  boss:LeftHandMiddle1, index:  15
+		processing begun of bone:  boss:LeftHandMiddle2, index:  16
+		processing begun of bone:  boss:LeftHandMiddle3, index:  17
+		processing begun of bone:  boss:LeftHandMiddle4, index:  18
+		processing begun of bone:  boss:LeftHandIndex1, index:  19
+		processing begun of bone:  boss:LeftHandIndex2, index:  20
+		processing begun of bone:  boss:LeftHandIndex3, index:  21
+		processing begun of bone:  boss:LeftHandIndex4, index:  22
+		processing begun of bone:  boss:LeftHandRing1, index:  23
+		processing begun of bone:  boss:LeftHandRing2, index:  24
+		processing begun of bone:  boss:LeftHandRing3, index:  25
+		processing begun of bone:  boss:LeftHandRing4, index:  26
+		processing begun of bone:  boss:LeftHandPinky1, index:  27
+		processing begun of bone:  boss:LeftHandPinky2, index:  28
+		processing begun of bone:  boss:LeftHandPinky3, index:  29
+		processing begun of bone:  boss:LeftHandPinky4, index:  30
+		processing begun of bone:  boss:RightShoulder, index:  31
+		processing begun of bone:  boss:RightArm, index:  32
+		processing begun of bone:  boss:RightForeArm, index:  33
+		processing begun of bone:  boss:RightHand, index:  34
+		processing begun of bone:  boss:RightHandThumb1, index:  35
+		processing begun of bone:  boss:RightHandThumb2, index:  36
+		processing begun of bone:  boss:RightHandThumb3, index:  37
+		processing begun of bone:  boss:RightHandThumb4, index:  38
+		processing begun of bone:  boss:RightHandIndex1, index:  39
+		processing begun of bone:  boss:RightHandIndex2, index:  40
+		processing begun of bone:  boss:RightHandIndex3, index:  41
+		processing begun of bone:  boss:RightHandIndex4, index:  42
+		processing begun of bone:  boss:RightHandMiddle1, index:  43
+		processing begun of bone:  boss:RightHandMiddle2, index:  44
+		processing begun of bone:  boss:RightHandMiddle3, index:  45
+		processing begun of bone:  boss:RightHandMiddle4, index:  46
+		processing begun of bone:  boss:RightHandRing1, index:  47
+		processing begun of bone:  boss:RightHandRing2, index:  48
+		processing begun of bone:  boss:RightHandRing3, index:  49
+		processing begun of bone:  boss:RightHandRing4, index:  50
+		processing begun of bone:  boss:RightHandPinky1, index:  51
+		processing begun of bone:  boss:RightHandPinky2, index:  52
+		processing begun of bone:  boss:RightHandPinky3, index:  53
+		processing begun of bone:  boss:RightHandPinky4, index:  54
+		processing begun of bone:  boss:LeftUpLeg, index:  55
+		processing begun of bone:  boss:LeftLeg, index:  56
+		processing begun of bone:  boss:LeftFoot, index:  57
+		processing begun of bone:  boss:LeftToeBase, index:  58
+		processing begun of bone:  boss:RightUpLeg, index:  59
+		processing begun of bone:  boss:RightLeg, index:  60
+		processing begun of bone:  boss:RightFoot, index:  61
+		processing begun of bone:  boss:RightToeBase, index:  62
+		processing action Armature|mixamo.com|Layer0:  in[1 - 193], out[0 - 193]
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  Shoes
+		processing begun of material:  shoesmat
+			processing texture Boss_normal
+				texture type:  bumpTexture, mapped using: "UVSet0"
+			processing texture Boss_diffuse
+				texture type:  diffuseTexture, mapped using: "UVSet0"
+			processing texture Boss_specular
+				texture type:  specularTexture, mapped using: "UVSet0"
+		Custom split normals with tangents being used
+		num positions      :  474
+		num normals        :  474
+		num tangents       :  1896
+		num uvs            :  948
+		num uvs2           :  948
+		num colors         :  0
+		num triangles      :  734
+		Skeleton stats:  
+			Total Influencers:  740
+			Avg # of influencers per vertex:  1.5612
+			Highest # of influencers observed:  3, num vertices with this:  58
+			exported as 3 influencers
+			num skeletonWeights and skeletonIndices:  1896
+	processing begun of mesh:  Hat
+		processing begun of material:  hatmat
+			processing texture Boss_normal
+				texture type:  bumpTexture, mapped using: "UVSet0"
+			processing texture Boss_diffuse
+				texture type:  diffuseTexture, mapped using: "UVSet0"
+			processing texture Boss_specular
+				texture type:  specularTexture, mapped using: "UVSet0"
+		Custom split normals with tangents being used
+		num positions      :  562
+		num normals        :  562
+		num tangents       :  2248
+		num uvs            :  1124
+		num uvs2           :  1124
+		num colors         :  0
+		num triangles      :  768
+		Skeleton stats:  
+			Total Influencers:  562
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  562
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  2248
+	processing begun of mesh:  Body
+		processing begun of material:  bodymat
+			processing texture Boss_normal
+				texture type:  bumpTexture, mapped using: "UVSet0"
+			processing texture Boss_diffuse
+				texture type:  diffuseTexture, mapped using: "UVSet0"
+			processing texture Boss_specular
+				texture type:  specularTexture, mapped using: "UVSet0"
+		Custom split normals with tangents being used
+		num positions      :  2836
+		num normals        :  2836
+		num tangents       :  11344
+		num uvs            :  5672
+		num uvs2           :  5672
+		num colors         :  0
+		num triangles      :  4106
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 41 vertices, extras ignored
+			Total Influencers:  4841
+			Avg # of influencers per vertex:  1.707
+			Highest # of influencers observed:  10, num vertices with this:  41
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  22688
+	processing begun of mesh:  Cigar
+		processing begun of material:  cigarmat
+			processing texture Boss_normal
+				texture type:  bumpTexture, mapped using: "UVSet0"
+			processing texture Boss_diffuse
+				texture type:  diffuseTexture, mapped using: "UVSet0"
+			processing texture Boss_specular
+				texture type:  specularTexture, mapped using: "UVSet0"
+		Custom split normals with tangents being used
+		num positions      :  139
+		num normals        :  139
+		num tangents       :  556
+		num uvs            :  278
+		num uvs2           :  278
+		num colors         :  0
+		num triangles      :  192
+		Skeleton stats:  
+			Total Influencers:  139
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  139
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  556
+	processing begun of mesh:  Tops
+		processing begun of material:  topsmat
+			processing texture Boss_normal
+				texture type:  bumpTexture, mapped using: "UVSet0"
+			processing texture Boss_diffuse
+				texture type:  diffuseTexture, mapped using: "UVSet0"
+			processing texture Boss_specular
+				texture type:  specularTexture, mapped using: "UVSet0"
+		Custom split normals with tangents being used
+		num positions      :  537
+		num normals        :  537
+		num tangents       :  2148
+		num uvs            :  1074
+		num uvs2           :  1074
+		num colors         :  0
+		num triangles      :  795
+		Skeleton stats:  
+			Total Influencers:  1195
+			Avg # of influencers per vertex:  2.2253
+			Highest # of influencers observed:  7, num vertices with this:  3
+			exported as 7 influencers
+			num skeletonWeights and skeletonIndices:  4296
+	processing begun of mesh:  Bottoms
+		processing begun of material:  bottomsmat
+			processing texture Boss_normal
+				texture type:  bumpTexture, mapped using: "UVSet0"
+			processing texture Boss_diffuse
+				texture type:  diffuseTexture, mapped using: "UVSet0"
+			processing texture Boss_specular
+				texture type:  specularTexture, mapped using: "UVSet0"
+		Custom split normals with tangents being used
+		num positions      :  584
+		num normals        :  584
+		num tangents       :  2336
+		num uvs            :  1168
+		num uvs2           :  1168
+		num colors         :  0
+		num triangles      :  949
+		Skeleton stats:  
+			WARNING: Maximum # of influencers exceeded for 7 vertices, extras ignored
+			Total Influencers:  1461
+			Avg # of influencers per vertex:  2.5017
+			Highest # of influencers observed:  10, num vertices with this:  7
+			exported as 8 influencers
+			num skeletonWeights and skeletonIndices:  4672
+	processing begun of mesh:  Teeth
+		processing begun of material:  teethmat
+			processing texture Boss_normal
+				texture type:  bumpTexture, mapped using: "UVSet0"
+			processing texture Boss_diffuse
+				texture type:  diffuseTexture, mapped using: "UVSet0"
+			processing texture Boss_specular
+				texture type:  specularTexture, mapped using: "UVSet0"
+		Custom split normals with tangents being used
+		num positions      :  762
+		num normals        :  762
+		num tangents       :  3048
+		num uvs            :  1524
+		num uvs2           :  1524
+		num colors         :  0
+		num triangles      :  1368
+		Skeleton stats:  
+			Total Influencers:  762
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  762
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  3048
+	processing begun of mesh:  Eyes
+		processing begun of material:  eyesmat
+			processing texture Boss_normal
+				texture type:  bumpTexture, mapped using: "UVSet0"
+			processing texture Boss_diffuse
+				texture type:  diffuseTexture, mapped using: "UVSet0"
+			processing texture Boss_specular
+				texture type:  specularTexture, mapped using: "UVSet0"
+		Custom split normals with tangents being used
+		num positions      :  219
+		num normals        :  219
+		num tangents       :  876
+		num uvs            :  438
+		num uvs2           :  438
+		num colors         :  0
+		num triangles      :  300
+		Skeleton stats:  
+			Total Influencers:  219
+			Avg # of influencers per vertex:  1
+			Highest # of influencers observed:  1, num vertices with this:  219
+			exported as 1 influencers
+			num skeletonWeights and skeletonIndices:  876
+	processing begun of mesh:  Bow_Tie
+		processing begun of material:  bowtiemat
+			processing texture Boss_normal
+				texture type:  bumpTexture, mapped using: "UVSet0"
+			processing texture Boss_diffuse
+				texture type:  diffuseTexture, mapped using: "UVSet0"
+			processing texture Boss_specular
+				texture type:  specularTexture, mapped using: "UVSet0"
+		Custom split normals with tangents being used
+		num positions      :  242
+		num normals        :  242
+		num tangents       :  968
+		num uvs            :  484
+		num uvs2           :  484
+		num colors         :  0
+		num triangles      :  356
+		Skeleton stats:  
+			Total Influencers:  601
+			Avg # of influencers per vertex:  2.4835
+			Highest # of influencers observed:  7, num vertices with this:  10
+			exported as 7 influencers
+			num skeletonWeights and skeletonIndices:  1936
+	processing begun of mesh:  Jacket
+		processing begun of material:  jacketmat
+			processing texture Boss_normal
+				texture type:  bumpTexture, mapped using: "UVSet0"
+			processing texture Boss_diffuse
+				texture type:  diffuseTexture, mapped using: "UVSet0"
+			processing texture Boss_specular
+				texture type:  specularTexture, mapped using: "UVSet0"
+		Custom split normals with tangents being used
+		num positions      :  412
+		num normals        :  412
+		num tangents       :  1648
+		num uvs            :  824
+		num uvs2           :  824
+		num colors         :  0
+		num triangles      :  652
+		Skeleton stats:  
+			Total Influencers:  1436
+			Avg # of influencers per vertex:  3.4854
+			Highest # of influencers observed:  7, num vertices with this:  16
+			exported as 7 influencers
+			num skeletonWeights and skeletonIndices:  3296
+	processing begun of light (POINT):  Light
+========= Writing of JSON file started =========
+	writing mesh:  Shoes
+	writing mesh:  Hat
+	writing mesh:  Body
+	writing mesh:  Cigar
+	writing mesh:  Tops
+	writing mesh:  Bottoms
+	writing mesh:  Teeth
+	writing mesh:  Eyes
+	writing mesh:  Bow_Tie
+	writing mesh:  Jacket
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 9.2923 secs

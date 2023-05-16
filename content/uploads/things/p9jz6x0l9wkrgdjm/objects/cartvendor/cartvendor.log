@@ -1,0 +1,119 @@
+Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  D:\Data\HTTP3DInc\Blender\building\cartvendor\
+	Python World class constructor completed
+	processing begun of mesh:  cart
+		processing begun of material:  Material
+		processing begun of material:  wood
+		processing begun of material:  tires
+		processing begun of material:  yelow cloth
+		processing begun of material:  red cloth
+			processing texture yellowwood_color
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\yellowwood_color.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\yellowwood_color.jpg' are the same file
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture yellowwood_metalness
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\yellowwood_metalness.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\yellowwood_metalness.jpg' are the same file
+				texture type:  metallicTexture, mapped using: "UVMap"
+			processing texture yellowwood_roughness
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\yellowwood_roughness.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\yellowwood_roughness.jpg' are the same file
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture yellowwood_normal
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\yellowwood_normal.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\yellowwood_normal.jpg' are the same file
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture Leather026_4K_Color
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\Leather026_4K_Color.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\Leather026_4K_Color.jpg' are the same file
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture Leather026_4K_Roughness
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\Leather026_4K_Roughness.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\Leather026_4K_Roughness.jpg' are the same file
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture Leather026_4K_Normal
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\Leather026_4K_Normal.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\Leather026_4K_Normal.jpg' are the same file
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture yellowfabric_color
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\yellowfabric_color.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\yellowfabric_color.jpg' are the same file
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture yellowfabric_roughness
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\yellowfabric_roughness.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\yellowfabric_roughness.jpg' are the same file
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture yellowfabric_normal
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\yellowfabric_normal.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\yellowfabric_normal.jpg' are the same file
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture redfabric_color
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\redfabric_color.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\redfabric_color.jpg' are the same file
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture redfabric_roughness
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\redfabric_roughness.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\redfabric_roughness.jpg' are the same file
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture redfabric_normal
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\redfabric_normal.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\redfabric_normal.jpg' are the same file
+				texture type:  bumpTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  cartvendor.Multimaterial#0
+		num positions      :  2279
+		num normals        :  2279
+		num tangents       :  0
+		num uvs            :  4558
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2592
+		WARNING: # of 0 area faces found:  2
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  wheels
+		processing begun of material:  Material
+		processing begun of material:  wood
+		processing begun of material:  tires
+		processing begun of material:  worn metal
+		registered as also a user of material:  wood
+		registered as also a user of material:  tires
+			processing texture wornmetal_color
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\wornmetal_color.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\wornmetal_color.jpg' are the same file
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture wornmetal_metalness
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\wornmetal_metalness.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\wornmetal_metalness.jpg' are the same file
+				texture type:  metallicTexture, mapped using: "UVMap"
+			processing texture wornmetal_roughness
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\wornmetal_roughness.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\wornmetal_roughness.jpg' are the same file
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture wornmetal_normal
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\wornmetal_normal.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\cartvendor\\wornmetal_normal.jpg' are the same file
+				texture type:  bumpTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  cartvendor.Multimaterial#1
+		num positions      :  5895
+		num normals        :  5895
+		num tangents       :  0
+		num uvs            :  11790
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  6984
+	processing begun of light (POINT):  Light
+========= Writing of JSON file started =========
+	writing mesh:  cart
+	writing mesh:  wheels
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.8452 secs

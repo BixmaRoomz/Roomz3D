@@ -1,0 +1,62 @@
+Exporter version: 6.4.4, Blender version: 2.90.0
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  D:\Data\HTTP3DInc\Blender\building\storefrontfeature\
+	Python World class constructor completed
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  buildinginside
+		processing begun of material:  windowpanes
+		processing begun of material:  redroof
+		processing begun of material:  columns
+		processing begun of material:  insidewalls
+			processing texture Planks010_1K_Color
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture Planks010_1K_AmbientOcclusion
+				texture type:  specularTexture, mapped using: "UVMap"
+			processing texture Planks010_1K_Roughness
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture Planks010_1K_Normal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture WoodFloor004_1K_Color
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture WoodFloor004_1K_Roughness
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture WoodFloor004_1K_Normal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture Wood051_1K_Color
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture Wood051_1K_Roughness
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture Wood051_1K_Normal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture Fabric036_1K_Color
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture Fabric036_1K_AmbientOcclusion
+				texture type:  specularTexture, mapped using: "UVMap"
+			processing texture Fabric036_1K_Roughness
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture Fabric036_1K_Normal
+				texture type:  bumpTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  storefrontfeature_buildinginside.Multimaterial#0
+		Custom split normals with tangents being used
+		num positions      :  276
+		num normals        :  276
+		num tangents       :  1104
+		num uvs            :  552
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  124
+	processing begun of light (POINT):  Light
+========= Writing of JSON file started =========
+	writing mesh:  buildinginside
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.0848 secs

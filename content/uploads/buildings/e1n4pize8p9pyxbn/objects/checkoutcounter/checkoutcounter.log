@@ -1,0 +1,63 @@
+Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  D:\Data\HTTP3DInc\Blender\checkoutcounter\
+	Python World class constructor completed
+	processing begun of mesh:  counter
+		processing begun of material:  yellowwood
+		processing begun of material:  bottomrunner
+			processing texture yellowwood_color
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\checkoutcounter\\yellowwood_color.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\checkoutcounter\\yellowwood_color.jpg' are the same file
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture yellowwood_metalness
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\checkoutcounter\\yellowwood_metalness.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\checkoutcounter\\yellowwood_metalness.jpg' are the same file
+				texture type:  metallicTexture, mapped using: "UVMap"
+			processing texture yellowwood_roughness
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\checkoutcounter\\yellowwood_roughness.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\checkoutcounter\\yellowwood_roughness.jpg' are the same file
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture yellowwood_normal
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\checkoutcounter\\yellowwood_normal.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\checkoutcounter\\yellowwood_normal.jpg' are the same file
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture yellowwood_color
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\checkoutcounter\\yellowwood_color.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\checkoutcounter\\yellowwood_color.jpg' are the same file
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture yellowwood_metalness
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\checkoutcounter\\yellowwood_metalness.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\checkoutcounter\\yellowwood_metalness.jpg' are the same file
+				texture type:  metallicTexture, mapped using: "UVMap"
+			processing texture yellowwood_roughness
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\checkoutcounter\\yellowwood_roughness.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\checkoutcounter\\yellowwood_roughness.jpg' are the same file
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture yellowwood_normal
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\checkoutcounter\\yellowwood_normal.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\checkoutcounter\\yellowwood_normal.jpg' are the same file
+				texture type:  bumpTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  checkoutcounter.Multimaterial#0
+		num positions      :  191
+		num normals        :  191
+		num tangents       :  0
+		num uvs            :  382
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  228
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of light (DIRECTIONAL):  Light
+========= Writing of JSON file started =========
+	writing mesh:  counter
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.0804 secs

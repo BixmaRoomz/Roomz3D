@@ -1,0 +1,132 @@
+Exporter version: 2.93.5, Blender version: 3.2.1
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  C:\Data\HTTP3DInc\Blender\octopus\
+	Python World class constructor completed
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  building
+		processing begun of material:  walls
+		processing begun of material:  floors
+		processing begun of material:  beams
+		processing begun of material:  glass
+		processing begun of material:  foundation
+		processing begun of material:  outerwalls
+		processing begun of material:  glassdark
+		processing begun of material:  metalblack
+			processing texture Concrete019_1K_Color
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture Concrete019_1K_Roughness
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture Concrete019_1K_Normal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture Wood062_1K_Color
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture Wood062_1K_AmbientOcclusion
+				texture type:  specularTexture, mapped using: "UVMap"
+			processing texture Wood062_1K_Normal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture Wood062_1K_Color
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture Wood062_1K_AmbientOcclusion
+				texture type:  specularTexture, mapped using: "UVMap"
+			processing texture Wood062_1K_Roughness
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture Wood062_1K_Normal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture Tiles090_1K_Color
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture Tiles090_1K_AmbientOcclusion
+				texture type:  specularTexture, mapped using: "UVMap"
+			processing texture Tiles090_1K_Roughness
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture Tiles090_1K_Normal
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture concrete1
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture concrete1_norm
+				texture type:  bumpTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  desertmuseum.Multimaterial#0
+		num positions      :  2654
+		num normals        :  2654
+		num tangents       :  0
+		num uvs            :  5308
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  1242
+	processing begun of mesh:  rock-left-up
+		processing begun of material:  Rock_6
+			processing texture Rock_6_Normal
+				WARNING: Exception during copy:
+					[Errno 13] Permission denied: 'D:\\Data\\HTTP3DInc\\Blender\\octopus\\images\\Rock_6_Tex\\Rock_6_Normal.jpg'
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture Rock_6_Base_Color
+				WARNING: Exception during copy:
+					[Errno 13] Permission denied: 'D:\\Data\\HTTP3DInc\\Blender\\octopus\\images\\Rock_6_Tex\\Rock_6_Base_Color.jpg'
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture Rock_6_Specular
+				WARNING: Exception during copy:
+					[Errno 13] Permission denied: 'D:\\Data\\HTTP3DInc\\Blender\\octopus\\images\\Rock_6_Tex\\Rock_6_Specular.jpg'
+				texture type:  specularTexture, mapped using: "UVMap"
+			processing texture Rock_6_Glossiness
+				WARNING: Exception during copy:
+					[Errno 13] Permission denied: 'D:\\Data\\HTTP3DInc\\Blender\\octopus\\images\\Rock_6_Tex\\Rock_6_Glossiness.jpg'
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+		Custom split normals with tangents being used
+		num positions      :  554
+		num normals        :  554
+		num tangents       :  2216
+		num uvs            :  1108
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  704
+	processing begun of mesh:  rock-right-up
+		processing begun of material:  Rock_6
+		registered as also a user of material:  Rock_6
+		Custom split normals with tangents being used
+		num positions      :  554
+		num normals        :  554
+		num tangents       :  2216
+		num uvs            :  1108
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  704
+	processing begun of mesh:  rock-right-flat
+		processing begun of material:  Rock_6
+		registered as also a user of material:  Rock_6
+		Custom split normals with tangents being used
+		num positions      :  554
+		num normals        :  554
+		num tangents       :  2216
+		num uvs            :  1108
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  704
+	processing begun of mesh:  rock-left-flat
+		processing begun of material:  Rock_6
+		registered as also a user of material:  Rock_6
+		Custom split normals with tangents being used
+		num positions      :  554
+		num normals        :  554
+		num tangents       :  2216
+		num uvs            :  1108
+		num uvs2           :  0
+		num colors         :  0
+		num triangles      :  704
+	processing begun of light (POINT):  Light
+========= Writing of JSON file started =========
+	writing mesh:  building
+	writing mesh:  rock-left-up
+	writing mesh:  rock-right-up
+	writing mesh:  rock-right-flat
+	writing mesh:  rock-left-flat
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 1.8154 secs

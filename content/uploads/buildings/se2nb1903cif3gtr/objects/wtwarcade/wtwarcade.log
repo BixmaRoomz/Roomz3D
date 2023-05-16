@@ -1,0 +1,175 @@
+Exporter version: 6.3.0, Blender version: 2.80 (sub 75)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  d:\Data\TFS\HTTP3D\secureinternal\HTTP3DInc\Blender\roomzarcade\
+	Python World class constructor completed
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  building
+		processing begun of material:  Foundation
+		processing begun of material:  outer walls
+		processing begun of material:  ceiling
+		processing begun of material:  inner walls
+		processing begun of material:  glass ceiling
+			processing texture Tiles15_col
+				WARNING: Exception during copy:
+					'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Tiles15_col.jpg' and 'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Tiles15_col.jpg' are the same file
+				texture type:  diffuseTexture, mapped using: "UVMapBuilding"
+			processing texture Tiles15_rgh
+				WARNING: Exception during copy:
+					'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Tiles15_rgh.jpg' and 'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Tiles15_rgh.jpg' are the same file
+				texture type:  value not meaningful 2, mapped using: "UVMapBuilding"
+			processing texture Tiles15_nrm
+				WARNING: Exception during copy:
+					'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Tiles15_nrm.jpg' and 'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Tiles15_nrm.jpg' are the same file
+				texture type:  bumpTexture, mapped using: "UVMapBuilding"
+			processing texture Plaster01_col
+				WARNING: Exception during copy:
+					'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Plaster01_col.jpg' and 'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Plaster01_col.jpg' are the same file
+				texture type:  diffuseTexture, mapped using: "UVMapBuilding"
+			processing texture Plaster01_rgh
+				WARNING: Exception during copy:
+					'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Plaster01_rgh.jpg' and 'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Plaster01_rgh.jpg' are the same file
+				texture type:  value not meaningful 2, mapped using: "UVMapBuilding"
+			processing texture Plaster01_nrm
+				WARNING: Exception during copy:
+					'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Plaster01_nrm.jpg' and 'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Plaster01_nrm.jpg' are the same file
+				texture type:  bumpTexture, mapped using: "UVMapBuilding"
+			processing texture TactilePaving02_col
+				WARNING: Exception during copy:
+					'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\TactilePaving02_col.jpg' and 'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\TactilePaving02_col.jpg' are the same file
+				texture type:  diffuseTexture, mapped using: "UVMapBuilding"
+			processing texture TactilePaving02_rgh
+				WARNING: Exception during copy:
+					'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\TactilePaving02_rgh.jpg' and 'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\TactilePaving02_rgh.jpg' are the same file
+				texture type:  value not meaningful 2, mapped using: "UVMapBuilding"
+			processing texture TactilePaving02_nrm
+				WARNING: Exception during copy:
+					'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\TactilePaving02_nrm.jpg' and 'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\TactilePaving02_nrm.jpg' are the same file
+				texture type:  bumpTexture, mapped using: "UVMapBuilding"
+			processing texture Bricks24_col
+				WARNING: Exception during copy:
+					'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Bricks24_col.jpg' and 'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Bricks24_col.jpg' are the same file
+				texture type:  diffuseTexture, mapped using: "UVMapBuilding"
+			processing texture Bricks24_rgh
+				WARNING: Exception during copy:
+					'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Bricks24_rgh.jpg' and 'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Bricks24_rgh.jpg' are the same file
+				texture type:  value not meaningful 2, mapped using: "UVMapBuilding"
+			processing texture Bricks24_nrm
+				WARNING: Exception during copy:
+					'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Bricks24_nrm.jpg' and 'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Bricks24_nrm.jpg' are the same file
+				texture type:  bumpTexture, mapped using: "UVMapBuilding"
+		processing begun of multimaterial:  wtwarcade.Multimaterial#0
+		num positions      :  371
+		num normals        :  371
+		num tangents       :  0
+		num uvs            :  742
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  429
+	processing begun of mesh:  banner
+		processing begun of material:  banner.base.orange
+		processing begun of material:  banner.base.yellow
+		processing begun of material:  banner.base.blue
+		processing begun of material:  banner.base.red
+		processing begun of material:  banner.base.white
+			processing texture Plaster01_disp
+				WARNING: Exception during copy:
+					'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Plaster01_disp.jpg' and 'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Plaster01_disp.jpg' are the same file
+				texture type:  diffuseTexture, mapped using: "UVMapBanner"
+			processing texture Plastic05_rgh
+				WARNING: Exception during copy:
+					'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Plastic05_rgh.jpg' and 'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Plastic05_rgh.jpg' are the same file
+				texture type:  value not meaningful 2, mapped using: "UVMapBanner"
+			processing texture Plastic05_nrm
+				WARNING: Exception during copy:
+					'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Plastic05_nrm.jpg' and 'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Plastic05_nrm.jpg' are the same file
+				texture type:  bumpTexture, mapped using: "UVMapBanner"
+			processing texture Plastic05_rgh
+				WARNING: Exception during copy:
+					'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Plastic05_rgh.jpg' and 'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Plastic05_rgh.jpg' are the same file
+				texture type:  value not meaningful 2, mapped using: "UVMapBanner"
+			processing texture Plastic05_nrm
+				WARNING: Exception during copy:
+					'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Plastic05_nrm.jpg' and 'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Plastic05_nrm.jpg' are the same file
+				texture type:  bumpTexture, mapped using: "UVMapBanner"
+			processing texture Plastic05_col
+				WARNING: Exception during copy:
+					'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Plastic05_col.jpg' and 'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Plastic05_col.jpg' are the same file
+				texture type:  diffuseTexture, mapped using: "UVMapBanner"
+			processing texture Plastic05_rgh
+				WARNING: Exception during copy:
+					'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Plastic05_rgh.jpg' and 'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Plastic05_rgh.jpg' are the same file
+				texture type:  value not meaningful 2, mapped using: "UVMapBanner"
+			processing texture Plastic05_nrm
+				WARNING: Exception during copy:
+					'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Plastic05_nrm.jpg' and 'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Plastic05_nrm.jpg' are the same file
+				texture type:  bumpTexture, mapped using: "UVMapBanner"
+			processing texture Plastic05_rgh
+				WARNING: Exception during copy:
+					'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Plastic05_rgh.jpg' and 'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Plastic05_rgh.jpg' are the same file
+				texture type:  value not meaningful 2, mapped using: "UVMapBanner"
+			processing texture Plastic05_nrm
+				WARNING: Exception during copy:
+					'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Plastic05_nrm.jpg' and 'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Plastic05_nrm.jpg' are the same file
+				texture type:  bumpTexture, mapped using: "UVMapBanner"
+			processing texture Plastic05_rgh
+				WARNING: Exception during copy:
+					'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Plastic05_rgh.jpg' and 'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Plastic05_rgh.jpg' are the same file
+				texture type:  value not meaningful 2, mapped using: "UVMapBanner"
+			processing texture Plastic05_nrm
+				WARNING: Exception during copy:
+					'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Plastic05_nrm.jpg' and 'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Plastic05_nrm.jpg' are the same file
+				texture type:  bumpTexture, mapped using: "UVMapBanner"
+		processing begun of multimaterial:  wtwarcade.Multimaterial#1
+		num positions      :  2040
+		num normals        :  2040
+		num tangents       :  0
+		num uvs            :  4080
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2424
+	processing begun of mesh:  arcade
+		processing begun of material:  banner.base.green
+		processing begun of material:  banner.base.white
+		processing begun of material:  banner.base.blue
+			processing texture Plastic05_nrm
+				WARNING: Exception during copy:
+					'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Plastic05_nrm.jpg' and 'd:\\Data\\TFS\\HTTP3D\\secureinternal\\HTTP3DInc\\Blender\\roomzarcade\\Plastic05_nrm.jpg' are the same file
+				texture type:  bumpTexture, mapped using: "UVMapArcade"
+		registered as also a user of material:  banner.base.white
+		registered as also a user of material:  banner.base.blue
+		processing begun of multimaterial:  wtwarcade.Multimaterial#2
+		num positions      :  23714
+		num normals        :  23714
+		num tangents       :  0
+		num uvs            :  47428
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  104352
+	processing begun of mesh:  ceiling
+		processing begun of material:  banner.base.blue
+		registered as also a user of material:  banner.base.blue
+		num positions      :  412
+		num normals        :  412
+		num tangents       :  0
+		num uvs            :  824
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  432
+	processing begun of light (DIRECTIONAL):  Light
+========= Writing of JSON file started =========
+	writing mesh:  building
+	writing mesh:  banner
+	writing mesh:  arcade
+	writing mesh:  ceiling
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 4.7787 secs

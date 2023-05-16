@@ -1,0 +1,197 @@
+Exporter version: 6.3.1, Blender version: 2.82 (sub 7)
+========= Conversion from Blender to Babylon.js =========
+	Scene settings used :
+		Inline textures     :  false
+		Material Type       :  PBR
+		Positions Precision :  4
+		Normals Precision   :  3
+		UVs Precision       :  3
+		Vert Color Precision:  3
+		Mat Weight Precision:  2
+		Keep Z-up r-handed  :  no
+		Texture directory   :  D:\Data\HTTP3DInc\Blender\building\westernstore\
+	Python World class constructor completed
+	processing begun of mesh:  outside building
+		processing begun of material:  Material
+		processing begun of material:  glass
+		processing begun of material:  blue siding
+		processing begun of material:  white window sills
+		processing begun of material:  black metal
+		processing begun of material:  blue gravel
+		processing begun of material:  backdrop
+			processing texture bluewoodsiding_color
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\bluewoodsiding_color.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\bluewoodsiding_color.jpg' are the same file
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture bluewoodsiding_metalness
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\bluewoodsiding_metalness.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\bluewoodsiding_metalness.jpg' are the same file
+				texture type:  metallicTexture, mapped using: "UVMap"
+			processing texture bluewoodsiding_roughness
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\bluewoodsiding_roughness.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\bluewoodsiding_roughness.jpg' are the same file
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture bluewoodsiding_normal
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\bluewoodsiding_normal.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\bluewoodsiding_normal.jpg' are the same file
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture whitewoodsiding_color
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\whitewoodsiding_color.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\whitewoodsiding_color.jpg' are the same file
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture bluewoodsiding_metalness
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\bluewoodsiding_metalness.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\bluewoodsiding_metalness.jpg' are the same file
+				texture type:  metallicTexture, mapped using: "UVMap"
+			processing texture bluewoodsiding_roughness
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\bluewoodsiding_roughness.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\bluewoodsiding_roughness.jpg' are the same file
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture bluewoodsiding_normal
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\bluewoodsiding_normal.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\bluewoodsiding_normal.jpg' are the same file
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture blackmetal_color
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\blackmetal_color.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\blackmetal_color.jpg' are the same file
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture blackmetal_metalness
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\blackmetal_metalness.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\blackmetal_metalness.jpg' are the same file
+				texture type:  metallicTexture, mapped using: "UVMap"
+			processing texture blackmetal_roughness
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\blackmetal_roughness.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\blackmetal_roughness.jpg' are the same file
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture blackmetal_normal
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\blackmetal_normal.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\blackmetal_normal.jpg' are the same file
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture bluegravel_color
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\bluegravel_color.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\bluegravel_color.jpg' are the same file
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture bluegravel_roughness
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\bluegravel_roughness.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\bluegravel_roughness.jpg' are the same file
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture bluegravel_normal
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\bluegravel_normal.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\bluegravel_normal.jpg' are the same file
+				texture type:  bumpTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  westernstore.Multimaterial#0
+		num positions      :  1938
+		num normals        :  1938
+		num tangents       :  0
+		num uvs            :  3876
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  2532
+	processing begun of camera (UniversalCamera):  Camera
+	processing begun of mesh:  frontdoor
+		processing begun of material:  door
+		processing begun of material:  doorwindow
+		processing begun of material:  doorpane
+			processing texture yellowwood_color
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\yellowwood_color.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\yellowwood_color.jpg' are the same file
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture yellowwood_metalness
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\yellowwood_metalness.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\yellowwood_metalness.jpg' are the same file
+				texture type:  metallicTexture, mapped using: "UVMap"
+			processing texture yellowwood_roughness
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\yellowwood_roughness.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\yellowwood_roughness.jpg' are the same file
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture yellowwood_normal
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\yellowwood_normal.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\yellowwood_normal.jpg' are the same file
+				texture type:  bumpTexture, mapped using: "UVMap"
+			processing texture whitewoodsiding_color
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\whitewoodsiding_color.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\whitewoodsiding_color.jpg' are the same file
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture bluewoodsiding_metalness
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\bluewoodsiding_metalness.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\bluewoodsiding_metalness.jpg' are the same file
+				texture type:  metallicTexture, mapped using: "UVMap"
+			processing texture bluewoodsiding_roughness
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\bluewoodsiding_roughness.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\bluewoodsiding_roughness.jpg' are the same file
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture bluewoodsiding_normal
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\bluewoodsiding_normal.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\bluewoodsiding_normal.jpg' are the same file
+				texture type:  bumpTexture, mapped using: "UVMap"
+		processing begun of multimaterial:  westernstore.Multimaterial#1
+		num positions      :  351
+		num normals        :  351
+		num tangents       :  0
+		num uvs            :  702
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  420
+	processing begun of mesh:  frontdoorhandle
+		processing begun of material:  HandleRod
+		processing begun of material:  Handle
+		processing begun of multimaterial:  westernstore.Multimaterial#2
+		num positions      :  268
+		num normals        :  268
+		num tangents       :  0
+		num uvs            :  536
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  852
+	processing begun of mesh:  backdoor
+		processing begun of material:  door
+		processing begun of material:  doorwindow
+		processing begun of material:  doorpane
+			processing texture yellowwood_color
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\yellowwood_color.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\yellowwood_color.jpg' are the same file
+				texture type:  diffuseTexture, mapped using: "UVMap"
+			processing texture yellowwood_metalness
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\yellowwood_metalness.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\yellowwood_metalness.jpg' are the same file
+				texture type:  metallicTexture, mapped using: "UVMap"
+			processing texture yellowwood_roughness
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\yellowwood_roughness.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\yellowwood_roughness.jpg' are the same file
+				texture type:  value not meaningful 2, mapped using: "UVMap"
+			processing texture yellowwood_normal
+				WARNING: Exception during copy:
+					'd:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\yellowwood_normal.jpg' and 'D:\\Data\\HTTP3DInc\\Blender\\building\\westernstore\\yellowwood_normal.jpg' are the same file
+				texture type:  bumpTexture, mapped using: "UVMap"
+		registered as also a user of material:  doorwindow
+		registered as also a user of material:  doorpane
+		processing begun of multimaterial:  westernstore.Multimaterial#3
+		num positions      :  351
+		num normals        :  351
+		num tangents       :  0
+		num uvs            :  702
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  420
+	processing begun of mesh:  backdoorhandle
+		processing begun of material:  HandleRod
+		processing begun of material:  Handle
+		registered as also a user of material:  Handle
+		processing begun of multimaterial:  westernstore.Multimaterial#4
+		num positions      :  269
+		num normals        :  269
+		num tangents       :  0
+		num uvs            :  538
+		num uvs2           :  0
+		num colors         :  0
+		num indices        :  852
+	processing begun of light (POINT):  Light
+========= Writing of JSON file started =========
+	writing mesh:  outside building
+	writing mesh:  frontdoor
+	writing mesh:  frontdoorhandle
+	writing mesh:  backdoor
+	writing mesh:  backdoorhandle
+========= Writing of JSON file completed =========
+========= end of processing =========
+elapsed time:  0 min, 0.28 secs
